@@ -1,0 +1,24 @@
+{
+  "id": "dropbox",
+  "name": "Dropbox",
+  "version": "1.0.0",
+  "description": "Dropbox",
+  "main": "index.js",
+  "author": "",
+  "license": "",
+  "config": {
+    "serviceURL": "https://www.dropbox.com/login",
+    "serviceName": "Dropbox",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+  "openDevTools": false
+  }
+}
