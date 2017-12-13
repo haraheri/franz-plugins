@@ -1,0 +1,24 @@
+{
+  "id": "youtube",
+  "name": "YouTube",
+  "version": "1.0.0",
+  "description": "YouTube",
+  "main": "index.js",
+  "author": "",
+  "license": "",
+  "config": {
+    "serviceURL": "https://www.youtube.com/account",
+    "serviceName": "YouTube",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+  "openDevTools": false
+  }
+}
