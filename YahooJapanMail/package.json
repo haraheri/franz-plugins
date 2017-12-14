@@ -1,0 +1,24 @@
+{
+  "id": "yahoojapanmail",
+  "name": "YahooJapanMail",
+  "version": "1.0.0",
+  "description": "YahooJapanMail",
+  "main": "index.js",
+  "author": "",
+  "license": "",
+  "config": {
+    "serviceURL": "https://mail.yahoo.co.jp/",
+    "serviceName": "YahooJapanMail",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+  "openDevTools": false
+  }
+}
