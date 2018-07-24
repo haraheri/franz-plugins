@@ -1,0 +1,25 @@
+{
+  "id": "aws",
+  "name": "Amazon Web Services",
+  "version": "0.0.1",
+  "description": "Amazon Web Services",
+  "main": "index.js",
+  "author": "",
+  "license": "",
+  "config": {
+    "serviceURL": "https://{teamID}.signin.aws.amazon.com/console",
+    "serviceName": "Amazon Web Services",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasedirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {},
+    "openDevTools": false,
+    "wording": {
+        "url": "aws.amazon.com",
+        "team": "Amazon Web Services"
+    }
+  }
+}
